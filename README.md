@@ -20,7 +20,7 @@ By encouraging the use of complex passwords, the Password Complexity Checker sig
 2. sudo apt install python3 -y
 ### Open a text editor to create the script file. Use 'nano' or any other text editor available in Kali Linux
 3. nano password_complexity_checker.py
-### write Caesar Cipher program code in text editor.
+### write Password Complexity checker code in text editor.
 ### Save the file 
 4. Press 'CTRL+O' to save.
 5. Hit 'Enter' to confirm the file name.
