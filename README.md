@@ -1,4 +1,4 @@
-# PRODIGY_INFOTECH_CS_03
+# Pass Strength Guard
 
 # Password Complexity Checker
 
